@@ -1,0 +1,24 @@
+# Autonomous Legal Research System - Windows Requirements
+# Install using: pip install -r requirements.txt
+
+# Core HTTP and Web Scraping
+requests
+beautifulsoup4
+lxml
+
+# Wikipedia API
+wikipedia
+
+# PDF Processing and Generation
+PyPDF2
+reportlab
+
+# GUI Framework (tkinter is included with Python on Windows)
+# No additional installation needed for tkinter on Windows
+
+# Additional utility libraries
+python-dateutil
+typing-extensions
+Pillow
+urllib3
+certifi
